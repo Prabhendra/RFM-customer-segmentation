@@ -1,3 +1,9 @@
+# 🧠 Customer Segmentation RFM Automation
+
+![Automated with Python](https://img.shields.io/badge/Automated%20With-Python-blue?style=flat-square&logo=python)
+
+This folder contains the **automated RFM (Recency, Frequency, Monetary) Analysis pipeline** using Python and SQLite, which classifies customers into meaningful business segments like _Champions_, _Loyal Customers_, and _At Risk_.
+
 # RFM-customer-segmentation
 A complete RFM customer segmentation project using SQL, Excel, Tableau with dashboards and business insights.
 # RFM Customer Segmentation Project
