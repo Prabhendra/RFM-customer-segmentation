@@ -1,0 +1,2 @@
+CustomerID,Name,Region,Monetary,Frequency,Recency,RecencyScore,FrequencyScore,MonetaryScore,TotalScore,Segment
+3,Charlie,East,1800,7,45,3,3,3,9,Loyal Customer
