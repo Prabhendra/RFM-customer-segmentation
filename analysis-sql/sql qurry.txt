@@ -1,0 +1,62 @@
+Query 1: Check Missing or Dirty Regions
+
+SELECT * FROM customers
+WHERE Region IS NULL OR Region = '';
+
+Query 2: Check Missing Emails
+
+SELECT * FROM customers
+WHERE Email IS NULL OR Email = '';
+
+ Query 3: Check Empty or Dirty TotalSpent
+
+SELECT * FROM customers
+WHERE TotalSpent IS NULL OR TotalSpent = '';
+
+One Combined SQL Query to Clean Everything
+
+
+-- Update blank or NULL Region
+UPDATE customers
+SET Region = 'Unknown'
+WHERE Region IS NULL OR Region = '';
+
+-- Update missing Email
+UPDATE customers
+SET Email = 'missing@example.com'
+WHERE Email IS NULL OR Email = '';
+
+-- Update blank or NULL TotalSpent
+UPDATE customers
+SET TotalSpent = 0.00
+WHERE TotalSpent IS NULL OR TotalSpent = '';
+
+
+
+ Confirm the Changes
+
+
+SELECT * FROM customers
+WHERE Region IS NULL OR Region = ''
+   OR Email IS NULL OR Email = ''
+   OR TotalSpent IS NULL OR TotalSpent = '';
+
+
+
+
+RFM Making
+
+-- Agar purani view bani ho to hata do
+DROP VIEW IF EXISTS customer_rfm;
+
+-- Nayi view banao RFM ke saath
+CREATE VIEW customer_rfm AS
+SELECT
+    CustomerID,
+    Name,
+    Region,
+    TotalOrders AS Frequency,         -- Kitni baar order kiya (F)
+    TotalSpent AS Monetary,           -- Kitna kharch kiya (M)
+    ROUND(julianday('2024-01-01') - julianday(LastPurchaseDate)) AS Recency  -- Last purchase se ab tak kitne din
+FROM customers;
+

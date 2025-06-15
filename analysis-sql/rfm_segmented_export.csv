@@ -1,0 +1,301 @@
+CustomerID,Name,Region,Frequency,Monetary,Recency,RecencyScore,FrequencyScore,MonetaryScore,TotalScore,Segment
+1,Simran Verma,South,15,34611.44,-12.0,5,2,5,12,New Customer
+2,Rahul Mehta,North,26,25640.72,182.0,3,3,4,10,Loyal Customer
+3,Sneha Sharma,Unknown,10,15703.67,1352.0,1,2,3,6,Others
+4,Rahul Verma,West,31,40929.67,-544.0,5,4,5,14,Champion
+5,Karan Gupta,Unknown,37,9162.09,-190.0,5,4,2,11,Potential Loyalist
+6,Simran Verma,North,14,7947.59,104.0,4,2,2,8,New Customer
+7,Karan Verma,East,38,19083.48,577.0,1,4,3,8,At Risk
+8,Vikram Gupta,East,15,31735.37,-92.0,5,2,5,12,New Customer
+9,Rahul Kapoor,South,8,3466.81,742.0,1,1,1,3,Lost
+10,Karan Mehta,Unknown,18,19440.46,395.0,2,2,3,7,Others
+11,Rahul Kapoor,North,6,30425.35,763.0,1,1,5,7,Others
+12,Karan Gupta,North,9,40309.26,1166.0,1,1,5,7,Others
+13,Simran Kapoor,North,1,0.0,-98.0,5,1,1,7,New Customer
+14,Aditya Verma,West,2,27897.46,543.0,1,1,4,6,Others
+15,Rahul Kapoor,North,12,45338.69,167.0,4,2,5,11,New Customer
+16,Pooja Gupta,West,29,24078.7,-87.0,5,3,4,12,Loyal Customer
+17,Riya Gupta,North,49,38669.21,984.0,1,5,5,11,At Risk
+18,Riya Verma,Unknown,2,28871.71,969.0,1,1,4,6,Others
+19,Sneha Yadav,North,39,35401.94,136.0,4,4,5,13,Champion
+20,Karan Yadav,Unknown,27,14523.3,-38.0,5,3,3,11,Loyal Customer
+21,Rahul Yadav,East,6,2502.53,818.0,1,1,1,3,Lost
+22,Sneha Verma,Unknown,40,3386.93,914.0,1,5,1,7,At Risk
+23,Neha Verma,North,34,3463.91,231.0,3,4,1,8,Potential Loyalist
+24,Vikram Yadav,West,24,5473.45,470.0,2,3,2,7,At Risk
+25,Amit Yadav,Unknown,18,7885.13,-42.0,5,2,2,9,New Customer
+26,Amit Yadav,Unknown,29,31795.05,-236.0,5,3,5,13,Loyal Customer
+27,Pooja Yadav,South,30,18888.25,871.0,1,4,3,8,At Risk
+28,Simran Mehta,Unknown,27,2097.54,340.0,3,3,1,7,Potential Loyalist
+29,Aditya Mehta,Unknown,11,45109.56,1056.0,1,2,5,8,Others
+30,Amit Gupta,South,13,1214.59,-35.0,5,2,1,8,New Customer
+31,Pooja Mehta,West,11,2683.32,887.0,1,2,1,4,Others
+32,Aditya Sharma,East,43,28207.72,731.0,1,5,4,10,At Risk
+33,Rahul Sharma,Unknown,9,15809.97,-372.0,5,1,3,9,New Customer
+34,Karan Kapoor,South,13,25518.66,181.0,3,2,4,9,Others
+35,Riya Gupta,Unknown,11,43961.23,197.0,3,2,5,10,Others
+36,Riya Kapoor,North,1,49120.15,318.0,3,1,5,9,Others
+37,Neha Sharma,Unknown,50,5473.53,-141.0,5,5,2,12,Potential Loyalist
+38,Neha Gupta,East,8,0.0,966.0,1,1,1,3,Lost
+39,Simran Sharma,South,18,3708.28,721.0,1,2,1,4,Others
+40,Amit Yadav,South,30,27666.54,143.0,4,4,4,12,Champion
+41,Vikram Sharma,West,33,43906.15,-4.0,5,4,5,14,Champion
+42,Aditya Mehta,West,20,13890.46,342.0,3,3,3,9,Loyal Customer
+43,Simran Verma,South,42,30692.19,-266.0,5,5,5,15,Champion
+44,Aditya Sharma,Unknown,46,31638.29,965.0,1,5,5,11,At Risk
+45,Karan Mehta,West,45,45868.06,1030.0,1,5,5,11,At Risk
+46,Rahul Kapoor,East,11,5746.64,-241.0,5,2,2,9,New Customer
+47,Rahul Yadav,Unknown,12,34864.29,202.0,3,2,5,10,Others
+48,Simran Kapoor,North,35,14608.65,-311.0,5,4,3,12,Loyal Customer
+49,Rahul Sharma,North,37,14804.16,845.0,1,4,3,8,At Risk
+50,Vikram Gupta,South,4,41019.85,835.0,1,1,5,7,Others
+51,Karan Kapoor,North,3,3267.11,953.0,1,1,1,3,Lost
+52,Simran Kapoor,East,17,37517.95,707.0,1,2,5,8,Others
+53,Riya Gupta,South,43,0.0,1118.0,1,5,1,7,At Risk
+54,Riya Sharma,North,21,46282.63,87.0,5,3,5,13,Loyal Customer
+55,Riya Kapoor,East,6,37689.75,865.0,1,1,5,7,Others
+56,Pooja Mehta,West,34,29846.94,299.0,3,4,4,11,Loyal Customer
+57,Aditya Verma,North,31,34643.66,43.0,5,4,5,14,Champion
+58,Rahul Yadav,West,7,39602.21,681.0,1,1,5,7,Others
+59,Neha Verma,East,4,14737.96,495.0,2,1,3,6,Others
+60,Sneha Gupta,East,18,1288.49,186.0,3,2,1,6,Potential Loyalist
+61,Aditya Verma,West,10,49745.35,-170.0,5,2,5,12,New Customer
+62,Vikram Verma,North,26,3554.97,241.0,3,3,1,7,Potential Loyalist
+63,Rahul Kapoor,South,21,18753.57,678.0,1,3,3,7,At Risk
+64,Pooja Kapoor,Unknown,9,33691.22,880.0,1,1,5,7,Others
+65,Sneha Mehta,North,11,29325.55,199.0,3,2,4,9,Others
+66,Amit Yadav,South,23,22617.43,-80.0,5,3,4,12,Loyal Customer
+67,Rahul Kapoor,North,1,9527.68,-318.0,5,1,2,8,New Customer
+68,Riya Gupta,South,3,3862.13,333.0,3,1,1,5,Potential Loyalist
+69,Simran Sharma,Unknown,22,38913.14,-276.0,5,3,5,13,Loyal Customer
+70,Rahul Sharma,North,26,38125.78,75.0,5,3,5,13,Loyal Customer
+71,Amit Gupta,Unknown,44,4465.48,380.0,2,5,1,8,At Risk
+72,Aditya Verma,North,8,37490.54,508.0,2,1,5,8,Others
+73,Amit Kapoor,South,11,41639.14,834.0,1,2,5,8,Others
+74,Pooja Verma,East,36,25305.55,500.0,2,4,4,10,At Risk
+75,Aditya Verma,Unknown,35,47151.1,-331.0,5,4,5,14,Champion
+76,Vikram Kapoor,West,27,18977.51,720.0,1,3,3,7,At Risk
+77,Aditya Kapoor,West,45,7482.28,-422.0,5,5,2,12,Potential Loyalist
+78,Amit Gupta,West,25,32891.86,-57.0,5,3,5,13,Loyal Customer
+79,Sneha Gupta,Unknown,9,2834.99,-78.0,5,1,1,7,New Customer
+80,Karan Yadav,West,35,30587.78,-411.0,5,4,5,14,Champion
+81,Vikram Yadav,West,45,30080.25,297.0,3,5,5,13,Loyal Customer
+82,Simran Yadav,Unknown,21,10798.04,901.0,1,3,3,7,At Risk
+83,Aditya Sharma,North,8,16392.37,332.0,3,1,3,7,Others
+84,Pooja Verma,West,43,6318.41,-636.0,5,5,2,12,Potential Loyalist
+85,Karan Gupta,Unknown,43,30110.01,255.0,3,5,5,13,Loyal Customer
+86,Riya Yadav,Unknown,26,33675.9,97.0,4,3,5,12,Loyal Customer
+87,Amit Gupta,West,17,12995.71,-543.0,5,2,3,10,New Customer
+88,Simran Mehta,North,37,19246.51,653.0,1,4,3,8,At Risk
+89,Simran Yadav,Unknown,35,13785.24,488.0,2,4,3,9,At Risk
+90,Riya Sharma,West,9,44417.61,-423.0,5,1,5,11,New Customer
+91,Vikram Yadav,Unknown,9,5788.11,-114.0,5,1,2,8,New Customer
+92,Rahul Kapoor,East,47,37987.77,1045.0,1,5,5,11,At Risk
+93,Neha Sharma,West,26,23275.73,263.0,3,3,4,10,Loyal Customer
+94,Neha Sharma,Unknown,25,37854.94,1178.0,1,3,5,9,At Risk
+95,Neha Sharma,Unknown,47,20851.59,119.0,4,5,4,13,Champion
+96,Sneha Sharma,Unknown,47,41987.17,-498.0,5,5,5,15,Champion
+97,Neha Gupta,North,43,38084.26,68.0,5,5,5,15,Champion
+98,Pooja Gupta,East,17,22961.5,-432.0,5,2,4,11,New Customer
+99,Aditya Mehta,North,32,36401.08,739.0,1,4,5,10,At Risk
+100,Amit Gupta,North,36,12147.67,426.0,2,4,3,9,At Risk
+101,Karan Sharma,Unknown,23,40571.61,2.0,5,3,5,13,Loyal Customer
+102,Rahul Gupta,North,33,16905.6,1104.0,1,4,3,8,At Risk
+103,Sneha Mehta,South,6,590.01,775.0,1,1,1,3,Lost
+104,Vikram Gupta,South,44,16496.53,208.0,3,5,3,11,Loyal Customer
+105,Neha Kapoor,Unknown,17,1999.93,530.0,2,2,1,5,Others
+106,Vikram Yadav,West,15,19442.43,459.0,2,2,3,7,Others
+107,Vikram Gupta,North,24,33588.18,580.0,1,3,5,9,At Risk
+108,Amit Kapoor,Unknown,32,17383.6,166.0,4,4,3,11,Loyal Customer
+109,Riya Mehta,South,16,41220.67,-196.0,5,2,5,12,New Customer
+110,Rahul Mehta,East,47,26412.76,21.0,5,5,4,14,Champion
+111,Sneha Sharma,Unknown,24,1979.05,508.0,2,3,1,6,At Risk
+112,Vikram Gupta,North,42,32425.87,-265.0,5,5,5,15,Champion
+113,Aditya Yadav,West,15,3932.67,713.0,1,2,1,4,Others
+114,Simran Yadav,North,45,13479.57,716.0,1,5,3,9,At Risk
+115,Pooja Gupta,Unknown,6,42625.07,1440.0,1,1,5,7,Others
+116,Pooja Mehta,Unknown,5,32811.12,336.0,3,1,5,9,Others
+117,Sneha Gupta,Unknown,26,22051.64,96.0,4,3,4,11,Loyal Customer
+118,Neha Mehta,West,9,22642.44,337.0,3,1,4,8,Others
+119,Karan Mehta,South,29,49093.85,119.0,4,3,5,12,Loyal Customer
+120,Karan Verma,West,5,13218.28,609.0,1,1,3,5,Others
+121,Sneha Sharma,East,8,23894.91,325.0,3,1,4,8,Others
+122,Riya Yadav,West,37,8975.77,358.0,3,4,2,9,Potential Loyalist
+123,Karan Yadav,Unknown,21,24378.45,699.0,1,3,4,8,At Risk
+124,Aditya Sharma,East,24,4975.75,674.0,1,3,1,5,At Risk
+125,Riya Kapoor,North,27,14680.42,128.0,4,3,3,10,Loyal Customer
+126,Riya Gupta,North,39,13084.23,1033.0,1,4,3,8,At Risk
+127,Karan Verma,East,19,32415.64,117.0,4,2,5,11,New Customer
+128,Sneha Verma,East,26,21538.5,-152.0,5,3,4,12,Loyal Customer
+129,Sneha Mehta,Unknown,6,40092.91,-255.0,5,1,5,11,New Customer
+130,Aditya Yadav,Unknown,40,33847.27,974.0,1,5,5,11,At Risk
+131,Pooja Yadav,South,23,46219.03,415.0,2,3,5,10,At Risk
+132,Simran Kapoor,Unknown,33,4021.28,105.0,4,4,1,9,Potential Loyalist
+133,Sneha Kapoor,West,28,7256.96,273.0,3,3,2,8,Potential Loyalist
+134,Aditya Yadav,North,17,17468.42,-717.0,5,2,3,10,New Customer
+135,Pooja Kapoor,East,35,22707.2,935.0,1,4,4,9,At Risk
+136,Aditya Mehta,North,35,8794.03,216.0,3,4,2,9,Potential Loyalist
+137,Simran Kapoor,South,19,12615.67,300.0,3,2,3,8,Others
+138,Aditya Kapoor,Unknown,22,45164.4,1402.0,1,3,5,9,At Risk
+139,Aditya Yadav,East,6,44651.81,614.0,1,1,5,7,Others
+140,Simran Verma,North,22,48844.1,-42.0,5,3,5,13,Loyal Customer
+141,Aditya Gupta,North,48,8548.81,-101.0,5,5,2,12,Potential Loyalist
+142,Vikram Yadav,Unknown,10,13585.82,-120.0,5,2,3,10,New Customer
+143,Vikram Mehta,North,4,44986.99,568.0,1,1,5,7,Others
+144,Karan Gupta,Unknown,21,39781.6,949.0,1,3,5,9,At Risk
+145,Riya Kapoor,South,24,39282.89,126.0,4,3,5,12,Loyal Customer
+146,Vikram Gupta,East,34,29058.52,547.0,1,4,4,9,At Risk
+147,Sneha Kapoor,Unknown,6,34343.55,-487.0,5,1,5,11,New Customer
+148,Riya Yadav,North,9,0.0,40.0,5,1,1,7,New Customer
+149,Aditya Yadav,South,15,13973.75,-445.0,5,2,3,10,New Customer
+150,Amit Kapoor,North,36,11463.15,224.0,3,4,3,10,Loyal Customer
+151,Aditya Yadav,Unknown,44,5482.72,83.0,5,5,2,12,Potential Loyalist
+152,Riya Yadav,North,32,5501.94,316.0,3,4,2,9,Potential Loyalist
+153,Sneha Yadav,Unknown,15,0.0,-408.0,5,2,1,8,New Customer
+154,Vikram Mehta,East,20,3257.78,924.0,1,3,1,5,At Risk
+155,Simran Sharma,Unknown,12,24769.49,879.0,1,2,4,7,Others
+156,Amit Yadav,Unknown,25,30195.05,682.0,1,3,5,9,At Risk
+157,Sneha Verma,West,24,41905.35,1015.0,1,3,5,9,At Risk
+158,Riya Verma,West,37,21091.27,50.0,5,4,4,13,Champion
+159,Vikram Mehta,Unknown,37,46089.51,-319.0,5,4,5,14,Champion
+160,Riya Gupta,East,5,12681.17,1197.0,1,1,3,5,Others
+161,Sneha Gupta,Unknown,45,18109.66,983.0,1,5,3,9,At Risk
+162,Simran Sharma,Unknown,13,48819.1,-177.0,5,2,5,12,New Customer
+163,Vikram Yadav,South,35,42740.25,916.0,1,4,5,10,At Risk
+164,Amit Gupta,Unknown,43,33123.11,-351.0,5,5,5,15,Champion
+165,Simran Verma,South,9,24016.29,774.0,1,1,4,6,Others
+166,Vikram Gupta,West,28,46968.75,967.0,1,3,5,9,At Risk
+167,Pooja Yadav,North,50,24298.53,-483.0,5,5,4,14,Champion
+168,Vikram Yadav,West,42,12917.81,-159.0,5,5,3,13,Loyal Customer
+169,Neha Verma,Unknown,18,12337.8,49.0,5,2,3,10,New Customer
+170,Aditya Sharma,East,12,28398.46,266.0,3,2,4,9,Others
+171,Riya Yadav,South,8,35834.73,241.0,3,1,5,9,Others
+172,Neha Verma,East,10,1309.12,-51.0,5,2,1,8,New Customer
+173,Vikram Gupta,West,39,41441.64,361.0,2,4,5,11,At Risk
+174,Sneha Verma,East,23,45782.55,361.0,2,3,5,10,At Risk
+175,Pooja Kapoor,West,14,5556.35,736.0,1,2,2,5,Others
+176,Karan Sharma,East,48,8381.25,618.0,1,5,2,8,At Risk
+177,Neha Yadav,North,38,25994.61,-575.0,5,4,4,13,Champion
+178,Rahul Kapoor,South,40,31972.63,18.0,5,5,5,15,Champion
+179,Pooja Verma,West,22,49083.5,657.0,1,3,5,9,At Risk
+180,Sneha Sharma,North,26,45308.0,367.0,2,3,5,10,At Risk
+181,Amit Sharma,North,24,24695.22,571.0,1,3,4,8,At Risk
+182,Neha Mehta,North,49,49256.54,737.0,1,5,5,11,At Risk
+183,Rahul Gupta,Unknown,33,26192.42,602.0,1,4,4,9,At Risk
+184,Vikram Yadav,South,41,17559.76,-50.0,5,5,3,13,Loyal Customer
+185,Vikram Mehta,Unknown,17,28266.74,1364.0,1,2,4,7,Others
+186,Karan Sharma,East,3,1251.99,-170.0,5,1,1,7,New Customer
+187,Riya Verma,Unknown,41,39854.74,-456.0,5,5,5,15,Champion
+188,Vikram Yadav,East,18,4098.15,1300.0,1,2,1,4,Others
+189,Rahul Verma,North,14,28587.49,450.0,2,2,4,8,Others
+190,Pooja Kapoor,North,43,29294.76,740.0,1,5,4,10,At Risk
+191,Amit Yadav,West,48,19229.08,-326.0,5,5,3,13,Loyal Customer
+192,Simran Kapoor,Unknown,21,40288.24,502.0,2,3,5,10,At Risk
+193,Karan Gupta,East,7,9743.36,273.0,3,1,2,6,Potential Loyalist
+194,Pooja Mehta,Unknown,36,32905.93,640.0,1,4,5,10,At Risk
+195,Rahul Sharma,North,4,6240.02,843.0,1,1,2,4,Others
+196,Rahul Kapoor,East,36,40428.91,232.0,3,4,5,12,Loyal Customer
+197,Riya Verma,North,14,0.0,314.0,3,2,1,6,Potential Loyalist
+198,Karan Mehta,East,49,36220.52,11.0,5,5,5,15,Champion
+199,Vikram Sharma,South,10,19866.8,772.0,1,2,3,6,Others
+200,Pooja Sharma,North,20,38092.9,1194.0,1,3,5,9,At Risk
+201,Neha Verma,Unknown,37,43659.53,1070.0,1,4,5,10,At Risk
+202,Amit Yadav,North,25,36886.02,-231.0,5,3,5,13,Loyal Customer
+203,Karan Kapoor,Unknown,47,46294.89,174.0,4,5,5,14,Champion
+204,Simran Yadav,Unknown,1,38886.47,924.0,1,1,5,7,Others
+205,Riya Gupta,North,43,43233.62,-237.0,5,5,5,15,Champion
+206,Aditya Kapoor,East,46,23538.21,117.0,4,5,4,13,Champion
+207,Sneha Gupta,Unknown,21,38869.97,1278.0,1,3,5,9,At Risk
+208,Riya Yadav,Unknown,8,10088.55,-177.0,5,1,3,9,New Customer
+209,Riya Gupta,Unknown,39,26897.41,1052.0,1,4,4,9,At Risk
+210,Simran Kapoor,North,17,31539.56,121.0,4,2,5,11,New Customer
+211,Vikram Gupta,West,48,25361.7,-174.0,5,5,4,14,Champion
+212,Aditya Kapoor,East,31,27501.68,419.0,2,4,4,10,At Risk
+213,Sneha Yadav,West,42,46579.13,-341.0,5,5,5,15,Champion
+214,Amit Sharma,Unknown,38,43376.08,917.0,1,4,5,10,At Risk
+215,Riya Mehta,East,4,20481.07,-84.0,5,1,4,10,New Customer
+216,Karan Gupta,Unknown,45,1279.71,-439.0,5,5,1,11,Potential Loyalist
+217,Aditya Gupta,Unknown,3,47291.08,504.0,2,1,5,8,Others
+218,Vikram Sharma,South,33,45681.13,689.0,1,4,5,10,At Risk
+219,Riya Sharma,Unknown,23,1033.56,499.0,2,3,1,6,At Risk
+220,Simran Sharma,West,5,13648.45,344.0,3,1,3,7,Others
+221,Sneha Sharma,North,10,45871.48,-322.0,5,2,5,12,New Customer
+222,Neha Sharma,South,8,14247.75,-189.0,5,1,3,9,New Customer
+223,Sneha Kapoor,North,5,20741.17,-114.0,5,1,4,10,New Customer
+224,Vikram Gupta,North,48,22614.98,549.0,1,5,4,10,At Risk
+225,Riya Sharma,Unknown,4,27594.12,990.0,1,1,4,6,Others
+226,Aditya Sharma,West,4,41492.15,-46.0,5,1,5,11,New Customer
+227,Aditya Sharma,Unknown,44,24105.61,1358.0,1,5,4,10,At Risk
+228,Neha Gupta,East,36,42593.99,1152.0,1,4,5,10,At Risk
+229,Rahul Sharma,North,18,36936.75,-327.0,5,2,5,12,New Customer
+230,Aditya Yadav,North,14,7726.4,153.0,4,2,2,8,New Customer
+231,Amit Mehta,Unknown,31,17788.63,-278.0,5,4,3,12,Loyal Customer
+232,Vikram Verma,West,14,18104.89,1086.0,1,2,3,6,Others
+233,Vikram Yadav,Unknown,28,13616.98,1079.0,1,3,3,7,At Risk
+234,Simran Mehta,West,42,15809.48,885.0,1,5,3,9,At Risk
+235,Riya Yadav,East,11,39190.97,114.0,4,2,5,11,New Customer
+236,Sneha Sharma,Unknown,17,23605.95,-501.0,5,2,4,11,New Customer
+237,Amit Kapoor,West,20,37180.11,452.0,2,3,5,10,At Risk
+238,Sneha Verma,North,48,19116.1,-378.0,5,5,3,13,Loyal Customer
+239,Rahul Mehta,Unknown,22,12840.94,895.0,1,3,3,7,At Risk
+240,Vikram Mehta,Unknown,50,33823.16,152.0,4,5,5,14,Champion
+241,Vikram Sharma,Unknown,27,30951.4,318.0,3,3,5,11,Loyal Customer
+242,Aditya Verma,North,15,8047.72,865.0,1,2,2,5,Others
+243,Sneha Yadav,East,22,35467.08,-188.0,5,3,5,13,Loyal Customer
+244,Karan Verma,North,50,601.13,266.0,3,5,1,9,Potential Loyalist
+245,Pooja Kapoor,Unknown,40,33925.65,-46.0,5,5,5,15,Champion
+246,Amit Verma,East,50,0.0,498.0,2,5,1,8,At Risk
+247,Riya Gupta,West,32,32538.94,841.0,1,4,5,10,At Risk
+248,Riya Verma,North,25,30266.7,-450.0,5,3,5,13,Loyal Customer
+249,Riya Gupta,East,25,1742.35,702.0,1,3,1,5,At Risk
+250,Karan Sharma,South,16,36181.56,660.0,1,2,5,8,Others
+251,Simran Yadav,West,9,0.0,569.0,1,1,1,3,Lost
+252,Vikram Kapoor,South,15,30915.3,-137.0,5,2,5,12,New Customer
+253,Aditya Gupta,North,46,3765.34,37.0,5,5,1,11,Potential Loyalist
+254,Neha Gupta,East,9,9638.33,569.0,1,1,2,4,Others
+255,Vikram Mehta,South,19,43853.02,-535.0,5,2,5,12,New Customer
+256,Pooja Sharma,Unknown,38,30485.19,801.0,1,4,5,10,At Risk
+257,Pooja Gupta,South,22,44890.56,952.0,1,3,5,9,At Risk
+258,Riya Kapoor,East,22,12992.98,1135.0,1,3,3,7,At Risk
+259,Aditya Mehta,West,13,10603.79,375.0,2,2,3,7,Others
+260,Karan Sharma,Unknown,47,29607.49,-123.0,5,5,4,14,Champion
+261,Amit Mehta,West,24,715.29,464.0,2,3,1,6,At Risk
+262,Rahul Mehta,Unknown,48,33808.06,-269.0,5,5,5,15,Champion
+263,Riya Yadav,Unknown,7,13029.88,566.0,1,1,3,5,Others
+264,Rahul Yadav,South,29,18340.14,-490.0,5,3,3,11,Loyal Customer
+265,Riya Verma,Unknown,36,20966.53,338.0,3,4,4,11,Loyal Customer
+266,Riya Verma,West,21,38906.51,-155.0,5,3,5,13,Loyal Customer
+267,Pooja Verma,East,46,10284.21,737.0,1,5,3,9,At Risk
+268,Simran Yadav,North,21,3397.7,305.0,3,3,1,7,Potential Loyalist
+269,Karan Sharma,North,42,9575.33,737.0,1,5,2,8,At Risk
+270,Vikram Yadav,Unknown,43,29951.67,296.0,3,5,4,12,Loyal Customer
+271,Vikram Mehta,East,39,39997.03,1140.0,1,4,5,10,At Risk
+272,Pooja Yadav,North,23,25438.37,828.0,1,3,4,8,At Risk
+273,Pooja Sharma,West,20,12718.13,-83.0,5,3,3,11,Loyal Customer
+274,Simran Yadav,East,46,6542.41,257.0,3,5,2,10,Potential Loyalist
+275,Neha Kapoor,East,45,34259.6,1126.0,1,5,5,11,At Risk
+276,Simran Kapoor,East,34,15739.03,1219.0,1,4,3,8,At Risk
+277,Riya Kapoor,Unknown,1,46906.09,958.0,1,1,5,7,Others
+278,Riya Mehta,North,25,0.0,221.0,3,3,1,7,Potential Loyalist
+279,Vikram Sharma,South,30,19931.93,133.0,4,4,3,11,Loyal Customer
+280,Pooja Kapoor,Unknown,26,49181.32,487.0,2,3,5,10,At Risk
+281,Sneha Kapoor,North,13,39342.78,-646.0,5,2,5,12,New Customer
+282,Simran Gupta,East,20,5398.96,591.0,1,3,2,6,At Risk
+283,Vikram Sharma,East,50,0.0,84.0,5,5,1,11,Potential Loyalist
+284,Riya Yadav,North,45,36828.57,230.0,3,5,5,13,Loyal Customer
+285,Karan Mehta,South,7,21778.37,67.0,5,1,4,10,New Customer
+286,Vikram Gupta,Unknown,44,29208.65,777.0,1,5,4,10,At Risk
+287,Rahul Verma,West,14,20616.17,-97.0,5,2,4,11,New Customer
+288,Rahul Yadav,Unknown,14,20567.06,113.0,4,2,4,10,New Customer
+289,Sneha Verma,North,33,15411.83,623.0,1,4,3,8,At Risk
+290,Karan Gupta,West,13,3038.54,-295.0,5,2,1,8,New Customer
+291,Vikram Mehta,North,21,32831.69,570.0,1,3,5,9,At Risk
+292,Simran Gupta,East,46,1071.64,218.0,3,5,1,9,Potential Loyalist
+293,Sneha Yadav,Unknown,45,48678.47,294.0,3,5,5,13,Loyal Customer
+294,Sneha Sharma,Unknown,23,40706.02,451.0,2,3,5,10,At Risk
+295,Karan Yadav,South,32,10573.67,488.0,2,4,3,9,At Risk
+296,Sneha Sharma,South,27,46234.26,-461.0,5,3,5,13,Loyal Customer
+297,Neha Mehta,Unknown,4,36472.96,1041.0,1,1,5,7,Others
+298,Riya Kapoor,East,39,11582.12,422.0,2,4,3,9,At Risk
+299,Amit Kapoor,South,33,17413.22,172.0,4,4,3,11,Loyal Customer
+300,Riya Mehta,North,31,1939.48,-69.0,5,4,1,10,Potential Loyalist
